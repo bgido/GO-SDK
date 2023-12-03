@@ -1,15 +1,21 @@
 package main
 
 import (
-    "fmt"
-    "os"
-    "config/globalVariables"
-    "github.com/memphisdev/memphis.go"
+	"fmt"
+	"go-sdk/config"
+	"os"
+	"github.com/memphisdev/memphis.go"
 )
 
 func main() {
-    conn, err := memphis.Connect(config.Host, config.User, memphis.Password(config.Pass), memphis.AccountId(config.AccountID), memphis.Reconnect(True), memphis.MaxReconnect(3000), memphis.ReconnectInterval(3000), memphis.Timeout(9000))
+    conn, err := memphis.Connect(
+        config.Host, 
+        config.User, 
+        memphis.Password(config.Pass), 
+        memphis.AccountId(config.AccountID),
+    )
     if err != nil {
+        fmt.Printf("Connection failed: %v", err)
         os.Exit(1)
     }
     defer conn.Close()
@@ -42,10 +48,22 @@ func main() {
 		fmt.Printf("Header failed: %v", err)
 		os.Exit(1)
 	}
+    	msg := make(map[string]interface{})
+        msg["fname"] = "Barak"
+        msg["lname"] = "Gido"
+    
+    counter := 0
 
-    err = p.Produce([]byte("You have a message!"), memphis.MsgHeaders(hdrs), memphis.AsyncProduce())
+	// Infinite loop
+	for {
+    err = p.Produce(msg, memphis.MsgHeaders(hdrs), memphis.AsyncProduce())
+
     if err != nil {
         fmt.Printf("Produce failed: %v", err)
+        os.Exit(1)
+        }
+
+    counter++
     }
 }
         
