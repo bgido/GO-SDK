@@ -38,7 +38,7 @@ func main() {
 		fmt.Printf("Header failed: %v", err)
 		os.Exit(1)
 	}
-	err = hdrs.Add("age", "33")
+	err = hdrs.Add("", "33")
 	if err != nil {
 		fmt.Printf("Header failed: %v", err)
 		os.Exit(1)
@@ -51,6 +51,8 @@ func main() {
     	msg := make(map[string]interface{})
         msg["fname"] = "Barak"
         msg["lname"] = "Gido"
+        msg["age"] = 33
+        msg["city"] = "Tel Aviv"
     
     counter := 0
 
