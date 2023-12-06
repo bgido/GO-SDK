@@ -1,0 +1,5 @@
+# import config
+packagefile github.com/graph-gophers/graphql-go/errors=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b113/_pkg_.a
+packagefile strconv=/Users/barakgido/Library/Caches/go-build/92/92858c8248cb0eeba63448fa7deb86111626c06846eb5faf9a100fe33216cc87-d
+packagefile strings=/Users/barakgido/Library/Caches/go-build/f9/f908a0cb781c8f91b42c5779169f818b7c93561a33f06c80a2816209c44f3df8-d
+packagefile text/scanner=/Users/barakgido/Library/Caches/go-build/0c/0c29e20ddd092e3bb87a67df35634256a17f84e1d42834d913e93aadf1170315-d

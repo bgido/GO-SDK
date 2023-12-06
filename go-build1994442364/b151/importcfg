@@ -1,0 +1,7 @@
+# import config
+packagefile crypto=/Users/barakgido/Library/Caches/go-build/1e/1e84a5c9cf58fa2723f163f5e12d3fec001d8303490145ddaf2d9a2debcc6e05-d
+packagefile encoding/binary=/Users/barakgido/Library/Caches/go-build/54/54f9e9ffc95b03d0afde5fe11572907528074917bc5781aa42fa8114b340eb29-d
+packagefile errors=/Users/barakgido/Library/Caches/go-build/90/90efa0e44982a7f9c9e8a386fa8c65c89c6d9900c3ae42d5bb33d79f9cfb905c-d
+packagefile hash=/Users/barakgido/Library/Caches/go-build/ce/cee2e354d0914d9dcf162bd1b162660cf60b8ead9f2c0cdbbc0174ee7376d15b-d
+packagefile io=/Users/barakgido/Library/Caches/go-build/17/17759671435c10d8e2b8881f44d533a0c340363990c6b0bc372115da915339b0-d
+packagefile math/bits=/Users/barakgido/Library/Caches/go-build/84/849b058231208cfb400cb6170c00580c8d9c38cf6c0c3f05cbd71e6d565d238e-d

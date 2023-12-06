@@ -1,0 +1,5 @@
+# import config
+packagefile SDK-GO/consumer=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b002/_pkg_.a
+packagefile SDK-GO/producer=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b212/_pkg_.a
+packagefile sync=/Users/barakgido/Library/Caches/go-build/1d/1db8caa05af358bd10fb445dd2a4525abcfb3c8a2e7d0cf0b19b801f9e07143a-d
+packagefile runtime=/Users/barakgido/Library/Caches/go-build/c2/c20d326a28fc5d5cee69494cfdd2dfed380edb7620042b2b5554b72bc0b2c4a8-d

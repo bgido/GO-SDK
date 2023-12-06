@@ -1,0 +1,9 @@
+# import config
+packagefile context=/Users/barakgido/Library/Caches/go-build/be/bed3999eb29b58ef4d3773346c6d5ff911571b29d7f7c8a2d20361a56510ad8a-d
+packagefile fmt=/Users/barakgido/Library/Caches/go-build/2f/2f6c3ebb65434bff674eabc2c2fad89e71e03eb8995acce639e32881d8a26a66-d
+packagefile github.com/graph-gophers/graphql-go/decode=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b119/_pkg_.a
+packagefile github.com/graph-gophers/graphql-go/internal/exec/packer=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b120/_pkg_.a
+packagefile github.com/graph-gophers/graphql-go/introspection=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b121/_pkg_.a
+packagefile github.com/graph-gophers/graphql-go/types=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b115/_pkg_.a
+packagefile reflect=/Users/barakgido/Library/Caches/go-build/68/68fd87708ea83fddc25b1d1b5de7a6cb35c9554b19b8967f1c2dd8ec2457b26d-d
+packagefile strings=/Users/barakgido/Library/Caches/go-build/f9/f908a0cb781c8f91b42c5779169f818b7c93561a33f06c80a2816209c44f3df8-d

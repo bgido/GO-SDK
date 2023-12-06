@@ -1,0 +1,7 @@
+# import config
+packagefile crypto/rand=/Users/barakgido/Library/Caches/go-build/17/174032ec1df863ef481b809b893138625df98941b1d45b5bb8e758e79b06554d-d
+packagefile golang.org/x/crypto/blake2b=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b151/_pkg_.a
+packagefile golang.org/x/crypto/curve25519=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b148/_pkg_.a
+packagefile golang.org/x/crypto/nacl/secretbox=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b152/_pkg_.a
+packagefile golang.org/x/crypto/salsa20/salsa=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b155/_pkg_.a
+packagefile io=/Users/barakgido/Library/Caches/go-build/17/17759671435c10d8e2b8881f44d533a0c340363990c6b0bc372115da915339b0-d
