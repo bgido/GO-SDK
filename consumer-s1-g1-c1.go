@@ -26,7 +26,7 @@ func main() {
         "eventlog-1", 
         "consumer-GO-Barak-1",
         memphis.ConsumerGroup("Gido-1"), 
-        memphis.PullInterval(100*time.Millisecond)
+        memphis.PullInterval(100*time.Millisecond),
         memphis.BatchSize(1000 int), // defaults to 10
         memphis.BatchMaxWaitTime(5000*time.Millisecond)) // defaults to 5 seconds, has to be at least 1 ms
 
