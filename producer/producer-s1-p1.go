@@ -1,13 +1,13 @@
-package main
+package producer
 
 import (
 	"fmt"
-	"go-sdk/config"
+	"SDK-GO/config"
 	"os"
 	"github.com/memphisdev/memphis.go"
 )
 
-func main() {
+func Producer() {
     conn, err := memphis.Connect(
         config.Host, 
         config.User, 

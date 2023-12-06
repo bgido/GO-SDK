@@ -1,15 +1,15 @@
-package main
+package consumer
 
 import (
     "fmt"
     "context"
-	"go-sdk/config"
+	"SDK-GO/config"
     "os"
     "time"
     "github.com/memphisdev/memphis.go"
 )
 
-func main() {
+func Consusmer() {
 	conn, err := memphis.Connect(
         config.Host, 
         config.User, 
