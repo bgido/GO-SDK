@@ -1,0 +1,5 @@
+# import config
+packagefile google.golang.org/protobuf/reflect/protoreflect=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b188/_pkg_.a
+packagefile google.golang.org/protobuf/runtime/protoimpl=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b205/_pkg_.a
+packagefile reflect=/Users/barakgido/Library/Caches/go-build/68/68fd87708ea83fddc25b1d1b5de7a6cb35c9554b19b8967f1c2dd8ec2457b26d-d
+packagefile sync=/Users/barakgido/Library/Caches/go-build/1d/1db8caa05af358bd10fb445dd2a4525abcfb3c8a2e7d0cf0b19b801f9e07143a-d

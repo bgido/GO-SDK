@@ -1,0 +1,20 @@
+# import config
+packagefile bytes=/Users/barakgido/Library/Caches/go-build/81/8140f2c7817473c98ad827764f5ae05d6c55bedb50332c1074751bc5a6f33e5e-d
+packagefile fmt=/Users/barakgido/Library/Caches/go-build/2f/2f6c3ebb65434bff674eabc2c2fad89e71e03eb8995acce639e32881d8a26a66-d
+packagefile google.golang.org/protobuf/encoding/protowire=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b189/_pkg_.a
+packagefile google.golang.org/protobuf/internal/descfmt=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b193/_pkg_.a
+packagefile google.golang.org/protobuf/internal/descopts=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b194/_pkg_.a
+packagefile google.golang.org/protobuf/internal/encoding/defval=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b195/_pkg_.a
+packagefile google.golang.org/protobuf/internal/encoding/messageset=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b191/_pkg_.a
+packagefile google.golang.org/protobuf/internal/errors=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b184/_pkg_.a
+packagefile google.golang.org/protobuf/internal/genid=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b197/_pkg_.a
+packagefile google.golang.org/protobuf/internal/pragma=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b190/_pkg_.a
+packagefile google.golang.org/protobuf/internal/strs=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b185/_pkg_.a
+packagefile google.golang.org/protobuf/proto=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b198/_pkg_.a
+packagefile google.golang.org/protobuf/reflect/protoreflect=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b188/_pkg_.a
+packagefile google.golang.org/protobuf/reflect/protoregistry=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b200/_pkg_.a
+packagefile math=/Users/barakgido/Library/Caches/go-build/8f/8fb67b4399907950d68ff227228516a55dbe12e595b3278a80f585ad0387208a-d
+packagefile reflect=/Users/barakgido/Library/Caches/go-build/68/68fd87708ea83fddc25b1d1b5de7a6cb35c9554b19b8967f1c2dd8ec2457b26d-d
+packagefile sort=/Users/barakgido/Library/Caches/go-build/be/beb71edba27137456d3a6e6e7149ebe0d63578d0cc676f8913d7c2d4ea5c8b63-d
+packagefile sync=/Users/barakgido/Library/Caches/go-build/1d/1db8caa05af358bd10fb445dd2a4525abcfb3c8a2e7d0cf0b19b801f9e07143a-d
+packagefile sync/atomic=/Users/barakgido/Library/Caches/go-build/67/674fba6e944a2196cc896d9748d72cd8e99bedd622974a5466bed3ee54a8265f-d

@@ -1,0 +1,7 @@
+# import config
+packagefile google.golang.org/protobuf/internal/descopts=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b194/_pkg_.a
+packagefile google.golang.org/protobuf/internal/filedesc=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b192/_pkg_.a
+packagefile google.golang.org/protobuf/internal/impl=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b207/_pkg_.a
+packagefile google.golang.org/protobuf/reflect/protoreflect=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b188/_pkg_.a
+packagefile google.golang.org/protobuf/reflect/protoregistry=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b200/_pkg_.a
+packagefile reflect=/Users/barakgido/Library/Caches/go-build/68/68fd87708ea83fddc25b1d1b5de7a6cb35c9554b19b8967f1c2dd8ec2457b26d-d

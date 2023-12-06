@@ -1,0 +1,5 @@
+# import config
+packagefile google.golang.org/protobuf/internal/errors=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b184/_pkg_.a
+packagefile io=/Users/barakgido/Library/Caches/go-build/17/17759671435c10d8e2b8881f44d533a0c340363990c6b0bc372115da915339b0-d
+packagefile math=/Users/barakgido/Library/Caches/go-build/8f/8fb67b4399907950d68ff227228516a55dbe12e595b3278a80f585ad0387208a-d
+packagefile math/bits=/Users/barakgido/Library/Caches/go-build/84/849b058231208cfb400cb6170c00580c8d9c38cf6c0c3f05cbd71e6d565d238e-d

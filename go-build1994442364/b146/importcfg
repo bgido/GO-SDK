@@ -1,0 +1,11 @@
+# import config
+packagefile bytes=/Users/barakgido/Library/Caches/go-build/81/8140f2c7817473c98ad827764f5ae05d6c55bedb50332c1074751bc5a6f33e5e-d
+packagefile crypto/rand=/Users/barakgido/Library/Caches/go-build/17/174032ec1df863ef481b809b893138625df98941b1d45b5bb8e758e79b06554d-d
+packagefile encoding/base32=/Users/barakgido/Library/Caches/go-build/e3/e393455be441cc8b0fa05b22a0388b72e0fac6d2dee048f3841d338a39ff72e5-d
+packagefile encoding/binary=/Users/barakgido/Library/Caches/go-build/54/54f9e9ffc95b03d0afde5fe11572907528074917bc5781aa42fa8114b340eb29-d
+packagefile golang.org/x/crypto/curve25519=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b148/_pkg_.a
+packagefile golang.org/x/crypto/ed25519=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b149/_pkg_.a
+packagefile golang.org/x/crypto/nacl/box=/Users/barakgido/Desktop/Barak Gido/Memphis/SDK-GO/go-build1994442364/b150/_pkg_.a
+packagefile io=/Users/barakgido/Library/Caches/go-build/17/17759671435c10d8e2b8881f44d533a0c340363990c6b0bc372115da915339b0-d
+packagefile regexp=/Users/barakgido/Library/Caches/go-build/1e/1e6efaaa1ab8274476be8c3000cf515ac370f97471d6322b06378a89ff6296ff-d
+packagefile strings=/Users/barakgido/Library/Caches/go-build/f9/f908a0cb781c8f91b42c5779169f818b7c93561a33f06c80a2816209c44f3df8-d
