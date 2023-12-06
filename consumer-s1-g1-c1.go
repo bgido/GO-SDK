@@ -22,7 +22,14 @@ func main() {
     }
     defer conn.Close()
 
-    consumer, err := conn.CreateConsumer("eventlog-1", "consumer-GO-Barak-1",memphis.ConsumerGroup("Gido-1"), memphis.PullInterval(15*time.Second))
+    consumer, err := conn.CreateConsumer(
+        "eventlog-1", 
+        "consumer-GO-Barak-1",
+        memphis.ConsumerGroup("Gido-1"), 
+        memphis.PullInterval(100*time.Millisecond)
+        memphis.BatchSize(1000 int), // defaults to 10
+        memphis.BatchMaxWaitTime(5000*time.Millisecond)) // defaults to 5 seconds, has to be at least 1 ms
+
     if err != nil {
         fmt.Printf("Consumer creation failed: %v", err)
         os.Exit(1)
